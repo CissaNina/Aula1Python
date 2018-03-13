@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"align-items"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"pa",
+				"palavra2"
+			],
+			[
+				"p",
+				"palavra2"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"sorte",
+				"sorteio"
+			],
+			[
+				"bor",
+				"border-top-style"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"te",
+				"tentativas"
+			],
+			[
+				"In",
+				"InstaDanny"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			],
+			[
+				"r",
+				"rows\tAttr"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"En",
+				"enviar"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"no",
+				"notatotal"
+			],
+			[
+				"n",
+				"notatotal"
+			],
+			[
+				"nota",
+				"nota1"
+			],
+			[
+				"hr",
+				"hr2"
+			],
+			[
+				"des",
+				"decrescente"
+			],
+			[
+				"nu",
+				"number1"
+			],
+			[
+				"pro",
+				"prod3"
+			],
+			[
+				"prod",
+				"prod1"
+			],
+			[
+				"nas",
+				"nasc"
+			],
+			[
+				"c",
+				"completar"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"S",
+				"SECTION\tTag"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"O",
+				"Ola_Mundo"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"tim",
+				"timework"
+			],
+			[
+				"num",
+				"number"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"us",
+				"usuario"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vai-na-web-3/Documentos/Juão/desafio2.html",
+			"settings":
+			{
+				"buffer_size": 1080,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/vai-na-web-3/Documentos/footer_estudio-VNW.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula10/github.py",
+		"/home/vai-na-web-3/Documentos/thiago/index.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 9/aula 9.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 9/aula9.css",
+		"/home/vai-na-web-3/Documentos/alan/desafio4.html",
+		"/home/vai-na-web-3/Documentos/alan/desafio4.css",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula9/aprendendo.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula9/armazene.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula9/adicionando.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula9/alterar.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 8/armazene.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula8/remedio.py",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 5 :-D /aula 5.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/aula 8/aula 8.html",
+		"/home/vai-na-web-3/Documentos/alan/dasafio3.html",
+		"/home/vai-na-web-3/Documentos/alan/desafio3.css",
+		"/home/vai-na-web-3/Documentos/alan/desafio2.css",
+		"/home/vai-na-web-3/Documentos/alan/desafio2.html",
+		"/home/vai-na-web-3/Documentos/alan/desafio.html",
+		"/home/vai-na-web-3/Documentos/alan/desafio.css",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula8/impar.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula8/programa.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula8/sequencia.py",
+		"/home/vai-na-web-3/Documentos/Ale :-D/aula 8/aula8.css",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula7(revisão)/tentativa3.py",
+		"/home/vai-na-web-3/Documentos/Ale :-D/aula 8.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula7(revisão)/revisao.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/untitled",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 6 (Repetição)/recarga.py",
+		"/home/vai-na-web-3/Documentos/Agenor/css/desafio.html",
+		"/home/vai-na-web-3/Documentos/Agenor/css/style01.css",
+		"/home/vai-na-web-3/Documentos/Agenor/css/style.css",
+		"/home/vai-na-web-3/Documentos/Agenor/css/desafio01.html",
+		"/home/vai-na-web-3/Documentos/Agenor/Desafio.html",
+		"/home/vai-na-web-3/Área de Trabalho/desafio03.html",
+		"/home/vai-na-web-3/Documentos/Daniella/Style02.css",
+		"/home/vai-na-web-3/Documentos/Daniella/Desafio02Aula07.html",
+		"/home/vai-na-web-3/Documentos/Daniella/Style.css",
+		"/home/vai-na-web-3/Documentos/Daniella/DesafioAula07.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 5 :-D /style.css",
+		"/home/vai-na-web-3/Documentos/Ale :-D/aula 5.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 3 :-D/Desfio meu ídolo.html",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula :-D 4/Aula 4.html",
+		"/home/vai-na-web-3/Documentos/yasmin/aaaaa/aaaa.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 6 (Repetição)/teste.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 6 (Repetição)/programa.py",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Aula 4.html",
+		"/home/vai-na-web-3/Documentos/yasmin/sobalgo-trab6/sobrealgo.html",
+		"/home/vai-na-web-3/Documentos/yasmin/sobrealguem-trab5/sobrealguem.html",
+		"/home/vai-na-web-3/Documentos/yasmin/receita-trab2/receita.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 5/desafiando.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 5/number.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 5/hora1.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 5/notas.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula4/usuario.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula4/n2.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula 5/aula5.py",
+		"/home/vai-na-web-3/Área de Trabalho/desafio04.html",
+		"/home/vai-na-web-3/Área de Trabalho/yasmin/guiaturistico-trab4/guiaturistico.html",
+		"/home/vai-na-web-3/Área de Trabalho/meuidolo.html/meuidolo.html]",
+		"/home/vai-na-web-3/Área de Trabalho/meuidolo.html/<",
+		"/home/vai-na-web-3/Área de Trabalho/receita.html/<",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula 3 :-D/Desafio receita.html",
+		"/home/vai-na-web-3/Documentos/João/Desafio3.html",
+		"/home/vai-na-web-3/Documentos/João/Desafio2.html",
+		"/home/vai-na-web-3/Documentos/João/Desafio.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula3/aula3.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula3/Vote.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula3/number.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula3/desafioextra.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula2/desafio1.py",
+		"/home/vai-na-web-3/Documentos/Ale :-D/Ale aula2 :-D/desafio aula 2.html",
+		"/home/vai-na-web-3/Documentos/Agenor/index.html",
+		"/home/vai-na-web-3/Documentos/Agenor/Desafio 01.html",
+		"/home/vai-na-web-3/Documentos/João/index.html",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/noitesdeAmor.py",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula2/World",
+		"/home/vai-na-web-3/Documentos/Aula1Python/Nina/Aula2/idadenosdias.py",
+		"/home/vai-na-web-3/Documentos/pablo/untitled.html",
+		"/home/vai-na-web-3/Documentos/Ale  aula1 :-D/sobre mim/relaxar com música.jpg",
+		"/home/vai-na-web-3/Documentos/Ale  aula1 :-D/ola mundo.html",
+		"/home/vai-na-web-3/Área de Trabalho/index.html/ola.html",
+		"/home/vai-na-web-3/Área de Trabalho/teste.html/<",
+		"/home/vai-na-web-3/Documentos/Cissa/noitesdeAmor.py",
+		"/home/vai-na-web-3/Documentos/Cissa/hot.py",
+		"/home/vai-na-web-3/Documentos/Cissa/desafioAula.py",
+		"/home/vai-na-web-3/Documentos/Cissa/aula1.py",
+		"/home/vai-na-web-3/Documentos/Cissa/ola.py",
+		"/home/vai-na-web-3/Documentos/desafio/src/App.vue",
+		"/home/vai-na-web-3/Documentos/desafio/src/components/Hello.vue",
+		"/home/vai-na-web-3/Documentos/desafio2alice/src/components/Hello.vue",
+		"/home/vai-na-web-3/Documentos/desafio2alice/src/App.vue"
+	],
+	"find":
+	{
+		"height": 68.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Tá",
+			")\n",
+			"data de lançamento 29 de abril de 2016",
+			"FAF519",
+			"radio",
+			"imput",
+			"ul",
+			"li",
+			"h4",
+			"urser"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vai-na-web-3/Documentos/Juão/desafio2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "alterar.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
